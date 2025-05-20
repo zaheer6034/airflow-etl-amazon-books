@@ -1,0 +1,4 @@
+logs/
+plugins/
+./.env
+amz-etl-airflow/
